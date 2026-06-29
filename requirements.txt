@@ -1,5 +1,5 @@
 streamlit>=1.32.0
-torch==2.0.1
+torch==2.2.2
 transformers==4.38.0
 tokenizers==0.15.2
 sentencepiece==0.1.99
