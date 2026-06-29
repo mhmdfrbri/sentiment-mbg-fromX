@@ -1,0 +1,12 @@
+streamlit>=1.32.0
+torch>=2.0.0
+transformers==4.40.0
+sentencepiece
+accelerate
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+Sastrawi
